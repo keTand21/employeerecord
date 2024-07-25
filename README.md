@@ -1,27 +1,31 @@
-# AngularAssessment
+# Employee Data
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.11.
+## Prerequisites
 
-## Development server
+Before you begin, ensure you have met the following requirements:
+- You have installed Node.js and npm (Node Package Manager).
+- You have installed Angular CLI globally using `npm install -g @angular/cli`.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Installation
 
-## Code scaffolding
+To install this project, follow these steps:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Clone the repository:
+    git clone https://github.com/keTand21/deployemployeedata.git
 
-## Build
+2. Navigate to the project directory:
+    cd yourrepo  //cd project name
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+4. Install the dependencies:
+    npm install
 
-## Running unit tests
+## How to Run the Project
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+To run the project, follow these steps:
 
-## Running end-to-end tests
+1. Start the development server:
+    ng serve
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+2. Open your web browser and navigate to `http://localhost:4200/`.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+The application will automatically reload if you change any of the source files.
